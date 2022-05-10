@@ -1,0 +1,186 @@
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\AppWareHouse_Manager.exe.config
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\AppWareHouse_Manager.exe
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\AppWareHouse_Manager.pdb
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmLoginWindow.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Properties.Resources.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.CopyComplete
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.exe
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.pdb
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmHomePage.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmSupply_Category.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmSupply.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmPublisher.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmUpdate_Publisher.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmUpdate_Supply.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmAccount.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmChangePassword.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmStaff_Manager.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmUpdate_Staff.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmImport_Coupon.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmOutput_Coupon.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Forms\frmLoginWindow.cs
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Forms\frmLoginWindow.Designer.cs
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EnvDTE.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\stdole.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Forms.frmUpdate_Import_Coupon.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Forms.frmUpdate_Output_Coupon.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\RdlCompile.cache
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\RdlCompile.compiled
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Reports.frmReport_IO_Coupon.resources
+C:\Users\HP\source\repos\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Reports.frmStatistical.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Forms\frmLoginWindow.cs
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Forms\frmLoginWindow.Designer.cs
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\AppWareHouse_Manager.exe.config
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\AppWareHouse_Manager.exe
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\AppWareHouse_Manager.pdb
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmAccount.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmChangePassword.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmHomePage.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmImport_Coupon.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmLoginWindow.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmOutput_Coupon.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmPublisher.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmStaff_Manager.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmSupply.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmSupply_Category.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Forms.frmUpdate_Import_Coupon.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Forms.frmUpdate_Output_Coupon.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmUpdate_Publisher.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmUpdate_Staff.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.frmUpdate_Supply.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Reports.frmReport_IO_Coupon.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.Reports.frmStatistical.resources
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.csproj.CopyComplete
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.exe
+C:\Users\Administrator\Desktop\New folder (3)\WareHouse_Manager_System\WareHouse_Manager_System\AppWareHouse_Manager\obj\Debug\AppWareHouse_Manager.pdb
